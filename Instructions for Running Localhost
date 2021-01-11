@@ -1,0 +1,8 @@
+// To run the localhost/test environment run these commands:
+
+first locate where you cloned the repo:
+then change directory to the GreenKPI-Connect folder using:
+cd GreenKPI-Connect
+Once in the folder run the local server using:
+npm start
+
