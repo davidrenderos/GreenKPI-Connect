@@ -19,7 +19,7 @@ function App() {
           </li>
         </ul>
       </div>
-      <a href="index.html">
+      <a href="profile.html">
         <img src="profile.jpg" alt="profile" className="profile"></img>
       </a>
     </div>
