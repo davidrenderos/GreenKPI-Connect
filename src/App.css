@@ -1,8 +1,19 @@
 .logo {
+  float: left;
+}
+
+.nav {
   display: inline;
-  position: absolute;
+  float: left;
+  width: 82%;
+  padding-top: 15px;
+}
+
+.profile {
+  display: inline;
+  float: right;
   height: 65px;
-  width: 55px;
+  width: 65px;
 }
 
 ul {
@@ -10,8 +21,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #e90f0f;
-  width: 50%;
+  background-color: #f9f9f9;
 }
 
 li {
@@ -28,12 +38,4 @@ li a {
 
 li a:hover {
   background-color: #454545;
-}
-
-.profilePic {
-  position: absolute;
-  height: 65px;
-  width: 55px;
-  top: 0;
-  right: 0;
 }
