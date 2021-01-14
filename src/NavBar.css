@@ -1,0 +1,27 @@
+.logo {
+  float: left;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background-color: #f9f9f9;
+}
+
+.profile {
+  display: inline;
+  float: right;
+  height: 65px;
+  width: 65px;
+}
+
+.nav-links {
+  width: 30%;
+  display: flex;
+  justify-content: space-around;
+  padding: 16px;
+  align-items: center;
+  list-style: none;
+}
